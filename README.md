@@ -1,7 +1,13 @@
 ### 念念不忘，必有回响。 👋
 [![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=ZZtac)](https://github.com/anuraghazra/github-readme-stats)
 
-I'm ZZtac
+
+### I'm ZZtac
+
+- A Computer Engineering Undergraduate Student. & Open Source enthusiast.
+- 🌱 Currently working in Hangzhou, China.
+- 💬 Ask me about Java, TypeScript and my projects on [2434387555@qq.com](mailto:2434387555@qq.com)
+- ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus)
 
 
 ### 🛠 技术栈 | Tech Stack
@@ -16,3 +22,5 @@ I'm ZZtac
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+
+⭐️ From [ZZtac](https://github.com/ZZtac)
