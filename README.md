@@ -4,10 +4,10 @@
 
 ### I'm ZZtac
 
-- A Computer Engineering Undergraduate Student. & Open Source enthusiast.
-- 🌱 Currently working in Hangzhou, China.
-- 💬 Ask me about Java, TypeScript and my projects on [2434387555@qq.com](mailto:2434387555@qq.com)
-- ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus)
+- “我们坠落，破碎，掉入深渊，但我们终会被托起，被治愈，我们无所畏惧。”
+- 🌱 动漫老宅男爱好者，安全浑水摸鱼选手。
+- 💬 扣扣邮箱，欢迎一起讨论学习 [ztacskyblue@gmail.com](mailto:ztacskyblue@gmail.com)
+- ⭐ 暴躁喷子，在线键盘。
 
 
 ### 🛠 技术栈 | Tech Stack
@@ -22,5 +22,6 @@
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+
 
 ⭐️ From [ZZtac](https://github.com/ZZtac)
