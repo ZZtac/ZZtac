@@ -1,6 +1,7 @@
 ### 念念不忘，必有回响。 👋
 [![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=ZZtac)](https://github.com/anuraghazra/github-readme-stats)
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ### I'm ZZtac
 
