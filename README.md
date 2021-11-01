@@ -24,5 +24,4 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 
-⭐️ 你不必生来勇敢，天赋过人。只要能投入勤奋，诚诚恳恳。
-                                                                                                                                            From [ZZtac](https://github.com/ZZtac)
+⭐️ 你不必生来勇敢，天赋过人。只要能投入勤奋，诚诚恳恳。From [ZZtac](https://github.com/ZZtac)
