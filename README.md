@@ -1,8 +1,7 @@
 ### 念念不忘，必有回响。 👋
 [![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=ZZtac&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-### I'm ZZtac
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+### I'm ZZtac<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 - :blush:“我们坠落，破碎，掉入深渊，但我们终会被托起，被治愈，我们无所畏惧。”
 - 🌱 动漫老宅男爱好者，安全浑水摸鱼选手。
 - 💬 扣扣邮箱，欢迎一起讨论学习 [ztacskyblue@gmail.com](mailto:ztacskyblue@gmail.com)
