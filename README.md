@@ -3,7 +3,7 @@
 
 ### I'm ZZtac<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 - :blush:“我们坠落，破碎，掉入深渊，但我们终会被托起，被治愈，我们无所畏惧。”
-- 🌱 动漫老宅男爱好者，安全浑水摸鱼选手。
+- 🌱 动漫老宅男爱好者，安全混水摸鱼选手。
 - 💬 扣扣邮箱，欢迎一起讨论学习 [ztacskyblue@gmail.com](mailto:ztacskyblue@gmail.com)
 - ⭐ 暴躁喷子，在线键盘。
 
